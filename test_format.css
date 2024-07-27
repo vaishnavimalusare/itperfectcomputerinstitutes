@@ -1,0 +1,33 @@
+*{
+	font-family:monotype corsiva;
+	font-size:25px;
+}
+
+
+body{
+background-image:url("testimage.jpg");
+background-repeat:no-repeat;
+}
+
+#p1{
+color:red;
+font-size:20px;
+margin-left:15%;
+letter-spacing:5pt
+position:fixed;
+}
+#p2{
+color:green;
+border:dotted;
+}
+.info{
+background-color:pink
+
+}
+#i{
+cellpadding:30px;
+cellspacing:30px;
+}
+.b1{
+	background-color:blue;
+}
